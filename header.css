@@ -1,0 +1,31 @@
+/** HEADER */
+
+header{
+display: flex;
+gap: 8px;
+justify-content:end;
+padding: 12px;
+background-color: antiquewhite;
+}
+
+header a {
+
+}
+
+/** NAVBAR */
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px;
+    align-items: center;
+}
+
+nav img {
+height: 80px;
+width: auto;
+}
+
+nav a {
+
+}
